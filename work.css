@@ -1,0 +1,33 @@
+.heading{
+    font-style: bold;
+    color:white;
+    text-align: center;
+}
+.para1{
+    color:white;
+    text-align: center;
+
+}
+.para2{
+    color:white;
+    font-style: bold;
+}
+.para3{
+    color:white;
+}
+.button2{
+    
+    color:white;
+    
+    background-color: yellow;
+    color:white;
+    border-radius: 20px;
+    height: 30px;
+    width: 70px;
+    
+    
+}
+.button1{
+    text-align: center;
+}
+a:link{color:white;}
